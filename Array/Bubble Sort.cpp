@@ -3,6 +3,7 @@ using namespace std;
 
 int main() {
     // BUBBLE SORT ALGORITHM
+    // This also takes the O(N^2) time complexity
     int n;
     cin >> n;
     vector <int> arr(n);
